@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625338408 source:d:\folders\faks\github\c-programming\c-programming-croatian\izracun sanse prolaznosti studenata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
