@@ -1,2 +1,2 @@
 # C-Programming-Croatian
- Collection of C programms written in Croatian language.
+ Collection of console applications written in C programming language.
